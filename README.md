@@ -1,0 +1,1 @@
+# HWA-DotNetCore-RabbitMQ-Example
