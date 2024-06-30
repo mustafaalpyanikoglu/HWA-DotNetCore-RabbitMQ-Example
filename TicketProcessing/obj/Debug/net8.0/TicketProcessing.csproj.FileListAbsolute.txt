@@ -1,0 +1,17 @@
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\bin\Debug\net8.0\TicketProcessing.exe
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\bin\Debug\net8.0\TicketProcessing.deps.json
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\bin\Debug\net8.0\TicketProcessing.runtimeconfig.json
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\bin\Debug\net8.0\TicketProcessing.dll
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\bin\Debug\net8.0\TicketProcessing.pdb
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.AssemblyInfo.cs
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.dll
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\refint\TicketProcessing.dll
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.pdb
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.genruntimeconfig.cache
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\ref\TicketProcessing.dll
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\malpy\Desktop\HWA\HWA-DotNetCore-RabbitMQ-Example\TicketProcessing\obj\Debug\net8.0\TicketPr.953AE5C5.Up2Date
